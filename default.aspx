@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title>Welcome toooooooooo OpenShift - ASP.NET 4.5 Application</title>
+    <title>Welcome to OpenShift - ASP.NET 4.5 Application</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link href="main.css" rel="stylesheet" />
     <script language="c#" runat="server">
@@ -32,7 +32,7 @@
 <body>
     <section class="container">
         <hgroup>
-            <h1>disha, Welcome to your .NET application on OpenShift</h1>
+            <h1>disha, Welcome to my .NET application on OpenShift</h1>
         </hgroup>
 
 
